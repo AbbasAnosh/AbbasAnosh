@@ -86,9 +86,9 @@ continuously learning, wanting to help the community
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbbasAnosh&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abbasanosh&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAnosh&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasanosh&theme=tokyonight&show_icons=true" />
 
 </p>
 
