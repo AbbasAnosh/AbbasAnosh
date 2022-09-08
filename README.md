@@ -5,3 +5,23 @@
 ```yaml
 * A little Bit About Me and My Interests *
 ```
+name: Abbas Ali Anosh
+located_in: Baluchistan, Pakistan
+current_job: Full Stack Developer
+education:
+  [
+    "Studying Master's degree in Data Science, Donghua University",
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Web3",
+    "DevOps",
+  ]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Playing Guitar and Violin", "Cinema", "Art", "Comedy"]
