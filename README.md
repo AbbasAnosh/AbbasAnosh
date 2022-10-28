@@ -35,7 +35,7 @@ I am a Full Stack Developer and a freelance software engineer <img src="https://
 
 - :zap: In my free time, I solve problems and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-anosh-80b802157/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-anosh-80b802157/)
 
 
 ---
