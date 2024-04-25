@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and a freelance software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Full Stack Developer and a freelance software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
